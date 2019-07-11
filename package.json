@@ -1,0 +1,15 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jonathandly/webtesting-i-challenge.git",
+  "author": "Jonathan Daly <dalyj138@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest --watch --verbose"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
